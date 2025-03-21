@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Location VTT Électrique - Puy-en-Velay</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 15px;
+            font-size: 24px;
+        }
+        .container {
+            padding: 20px;
+        }
+        .tarifs, .contact {
+            background: #fff;
+            padding: 15px;
+            margin: 20px auto;
+            width: 80%;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #28a745;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>🚴‍♂️ Location de VTT Électrique - Puy-en-Velay</header>
+    <div class="container">
+        <h2>Partez à l'aventure avec un VTT électrique !</h2>
+        <p>Découvrez les magnifiques paysages du Puy-en-Velay sans effort grâce à notre VTT électrique Haibike HardSeven 3.0.</p>
+        
+        <div class="tarifs">
+            <h3>💰 Tarifs</h3>
+            <p>✅ 25€ la demi-journée</p>
+            <p>✅ 50€ la journée complète</p>
+        </div>
+        
+        <div class="contact">
+            <h3>📞 Réservation & Contact</h3>
+            <p>Pour réserver votre VTT ou obtenir plus d’informations, contactez-moi :</p>
+            <p>📍 Disponible à Puy-en-Velay</p>
+            <p>📧 Email : contact@location-vtt-puy.fr</p>
+            <p>📱 Téléphone : 06 XX XX XX XX</p>
+            <a href="mailto:contact@location-vtt-puy.fr" class="button">Envoyer un email</a>
+        </div>
+    </div>
+</body>
+</html>
